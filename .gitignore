@@ -59,3 +59,21 @@ profile*
 
 .env
 *.env
+
+# mac files
+.DS_Store
+
+# vim swap files
+*.swp
+
+# webstorm
+.idea
+
+# vscode
+.vscode
+*code-workspace
+
+# clinic
+profile*
+*clinic*
+*flamegraph*
